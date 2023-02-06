@@ -6,7 +6,7 @@ import { ref } from "vue";
 const name = ref("");
 const author = ref("");
 const totalPages = ref(0);
-const started = ref("");d
+const started = ref("");
 </script>
 
 <template>
